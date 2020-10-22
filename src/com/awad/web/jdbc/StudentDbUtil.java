@@ -1,4 +1,4 @@
-package com.luv2code.web.jdbc;
+package com.awad.web.jdbc;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
